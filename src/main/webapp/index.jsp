@@ -46,6 +46,10 @@
       <!-- Bouton de soumission -->
       <button type="submit" class="btn btn-primary">Commander</button>
     </form>
+
+    <a href="commentaire.jsp" class="text-primary ">Commentaire (Partie 3)</a>
   </div>
+
+
   </body>
 </html>
