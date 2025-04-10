@@ -48,6 +48,9 @@
     </form>
 
     <a href="commentaire.jsp" class="text-primary ">Commentaire (Partie 3)</a>
+    <br>
+    <a href="listeProduits.jsp" class="text-primary ">Liste des produits (Partie 4)</a>
+
   </div>
 
 
